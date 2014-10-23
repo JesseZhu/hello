@@ -3,16 +3,33 @@
 <plist version="1.0">
 <dict>
     <key>items</key>
-	<array>
+    <array>
 		<dict>
 			<key>assets</key>
 			<array>
 				<dict>
-    				<key>kind</key>
+					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
 					<string>http://cofeer02.44132.idcxin.com/case_app/CS_GLSA.ipa</string>
 				</dict>
+                <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://jesse.xiaozhu365.com/ipa/kk/icon.png</string>
+               </dict>
+                  <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://jesse.xiaozhu365.com/ipa/kk/icon.png</string>
+               </dict>
+                
 			</array>
 			<key>metadata</key>
 			<dict>
